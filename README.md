@@ -2,6 +2,16 @@
 
 Classes to work with [Pocket](http://getpocket.com).
 
+[Pocket Classes on RubyGems.org](https://rubygems.org/gems/pocket-classes)
+
+## Installation
+
+    gem install pocket-classes
+
+## Or on Gemfile
+
+    gem 'pocket-classes', '~> 0.0.1'
+
 ## New Item
 
     item = Item.new
