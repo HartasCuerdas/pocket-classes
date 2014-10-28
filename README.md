@@ -1,4 +1,4 @@
-# Pocket Classes [![Gem Version](https://badge.fury.io/rb/pocket-classes.svg)](http://badge.fury.io/rb/pocket-classes) [![Dependency Status](https://gemnasium.com/HartasCuerdas/pocket-classes.svg)](https://gemnasium.com/HartasCuerdas/pocket-classes)
+# Pocket Classes [![Gem Version](https://badge.fury.io/rb/pocket-classes.svg)](http://badge.fury.io/rb/pocket-classes) [![Build Status](https://travis-ci.org/HartasCuerdas/pocket-classes.svg?branch=master)](https://travis-ci.org/HartasCuerdas/pocket-classes) [![Dependency Status](https://gemnasium.com/HartasCuerdas/pocket-classes.svg)](https://gemnasium.com/HartasCuerdas/pocket-classes)
 
 [![Code Climate](https://codeclimate.com/github/HartasCuerdas/pocket-classes/badges/gpa.svg)](https://codeclimate.com/github/HartasCuerdas/pocket-classes) [![Inline docs](http://inch-ci.org/github/HartasCuerdas/pocket-classes.svg?branch=master&style=flat-square)](http://inch-ci.org/github/HartasCuerdas/pocket-classes)
 
