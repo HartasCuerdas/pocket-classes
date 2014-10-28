@@ -3,7 +3,7 @@ require 'tagCollection'
 
 describe TagCollection, "complementarity" do
   it "tagged items are complementary to untagged items" do
-    info = YAML.load(File.read('./info.yml'))
+    info = YAML.load(File.read('test/info.yml'))
     list = info['list']
 
     itemLoader = ItemLoader.new(list)
