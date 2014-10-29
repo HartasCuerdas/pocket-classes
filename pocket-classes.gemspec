@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'pocket-classes'
-  s.version     = '0.0.2'
-  s.date        = '2014-10-27'
+  s.version     = '0.0.3'
+  s.date        = '2014-10-28'
   s.summary     = 'Classes for Pocket'
   s.description = 'Classes to work with Pocket'
   s.authors     = ['Franco Cedillo']

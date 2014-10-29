@@ -1,3 +1,7 @@
+# 0.0.3
+
+* Renamed item['count'] to item['total']
+
 # 0.0.2
 
 * Added test

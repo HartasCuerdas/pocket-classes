@@ -22,12 +22,12 @@ class TagCollection
     end
 
     if @tags.has_key?(tag)
-      @tags[tag]['count'] = @tags[tag]['count'] + 1
+      @tags[tag]['total'] = @tags[tag]['total'] + 1
       @tags[tag]['archived'] = @tags[tag]['archived'] + archived
-      @tags[tag]['unread'] = @tags[tag]['count'] - @tags[tag]['archived']
+      @tags[tag]['unread'] = @tags[tag]['total'] - @tags[tag]['archived']
     else
       @tags[tag] = Hash.new
-      @tags[tag]['count'] = 1
+      @tags[tag]['total'] = 1
       @tags[tag]['archived'] = archived
       @tags[tag]['unread'] = 1 - archived
     end

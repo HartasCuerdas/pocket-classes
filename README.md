@@ -12,7 +12,7 @@ Classes to work with [Pocket](http://getpocket.com).
 
 ## Or on Gemfile
 
-    gem 'pocket-classes', '~> 0.0.1'
+    gem 'pocket-classes', '~> 0.0.3'
 
 ## New Item
 
@@ -43,6 +43,6 @@ Classes to work with [Pocket](http://getpocket.com).
 
   Tag is a Hash that contains useful counters.
 
-    tag['count']: Total of articles tagged with current tag
+    tag['total']: Total of articles tagged with current tag
     tag['archived']: Total of archived articles tagged with current tag
     tag['unread']: Total of unread articles tagged with current tag. Note that this is complementary to 'archived' count.
